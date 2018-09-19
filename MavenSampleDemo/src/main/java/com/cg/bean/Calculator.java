@@ -15,6 +15,6 @@ public class Calculator {
 	}
 	public int calcSquare(int num)
 	{
-		return num;
+		return num*num;
 	}
 }
